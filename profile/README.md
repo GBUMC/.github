@@ -3,6 +3,6 @@
 
 ### A WIP (Work in Progress)
 
-Monitor its development at [GBUMC.church] (https://gbumc.church)
+Monitor its development at [GBUMC-directory.org] (https://gbumc-directory.org)
 
-Contact \<tom.browder@gmail.com\> for more information.
+Contact \<tbrowder@gbumc-directory.org\> for more information.
